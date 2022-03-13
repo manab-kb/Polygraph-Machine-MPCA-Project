@@ -18,9 +18,8 @@ In this project, we’ll try to get some information from human body using simpl
 ***For further resources, refer [here.](https://create.arduino.cc/projecthub/electropeak/arduino-polygraph-machine-lie-detector-7d8b10)***
 
 ### Team Members
-- LN Sriranga
 - Manab Kumar Biswas
 - MD Taseen Atehar
-- Nikhil Mellemputi
+
 
 ## MPCA Project SEM - IV 2022.
