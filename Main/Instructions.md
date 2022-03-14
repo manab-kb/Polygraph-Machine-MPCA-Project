@@ -1,2 +1,6 @@
 # Instructions
-This folder contains code which needs to be **Verified** on the Arduino IDE and then **Uploaded** to the board using the selected COM Port.
+This folder contains the main code for the project.
+
+## Steps
+- **Verification** on the Arduino IDE.
+- To be **Uploaded** to the board using the selected COM Port.
