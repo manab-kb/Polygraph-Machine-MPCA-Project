@@ -2,5 +2,5 @@
 This folder contains the main code for the project.
 
 ## Steps
-- **Verification** on the Arduino IDE.
+- To be **Verified** on the Arduino IDE.
 - To be **Uploaded** to the board using the selected COM Port.
