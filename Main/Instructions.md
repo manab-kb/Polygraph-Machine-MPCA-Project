@@ -1,5 +1,5 @@
 # Instructions
-This folder contains the main code for the project.
+This folder contains the main code for the project. Run [this](https://github.com/Manab784/Polygraph-Machine-MPCA-Project/blob/main/Main/Arduino.ino) file
 
 ## Steps
 - To be **Verified** on the Arduino IDE.
